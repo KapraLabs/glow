@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">One million devices</title>
+  <desc id="desc">A million devices would be a million private AIs on the same network. This is the intended shape, not a measured deployment.</desc>
+  <rect width="960" height="420" fill="#f7f6f3"/>
+  <text x="48" y="48" fill="#1c1917" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="650">1 million devices</text>
+  <text x="48" y="76" fill="#57534e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">The same rule at a larger size. Not a deployment we have measured.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="48" y="130" width="420" height="180" rx="12" fill="#ffffff" stroke="#1f4d3a" stroke-width="1.5"/>
+    <text x="258" y="185" text-anchor="middle" fill="#1f4d3a" font-size="28" font-weight="650">1,000,000</text>
+    <text x="258" y="218" text-anchor="middle" fill="#1c1917" font-size="16">private AIs</text>
+    <text x="258" y="246" text-anchor="middle" fill="#57534e" font-size="14">one device, one person, one key set</text>
+    <text x="258" y="270" text-anchor="middle" fill="#57534e" font-size="14">private memory stays on that device</text>
+    <rect x="560" y="130" width="340" height="180" rx="12" fill="#ffffff" stroke="#1c1917"/>
+    <text x="730" y="190" text-anchor="middle" fill="#1c1917" font-size="18" font-weight="650">Same Kapra network</text>
+    <text x="730" y="222" text-anchor="middle" fill="#44403c" font-size="14">answers general questions</text>
+    <text x="730" y="246" text-anchor="middle" fill="#44403c" font-size="14">settles each prompt</text>
+    <text x="730" y="270" text-anchor="middle" fill="#44403c" font-size="14">more devices can confirm</text>
+    <path d="M468 220 H560" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M552 220 l8 -5 v10 z" fill="#1c1917"/>
+    <text x="48" y="360" fill="#57534e" font-size="13">More devices add more private AIs and more confirmations. They do not merge private memory.</text>
+  </g>
+</svg>

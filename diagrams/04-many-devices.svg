@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">One hundred devices</title>
+  <desc id="desc">One hundred devices are one hundred private AIs sharing one network. Private memory is not pooled.</desc>
+  <rect width="960" height="420" fill="#f7f6f3"/>
+  <text x="48" y="48" fill="#1c1917" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="650">100 devices</text>
+  <text x="48" y="76" fill="#57534e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">One hundred private AIs. One shared network. Private memory is not pooled.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g fill="#ffffff" stroke="#1f4d3a">
+      <rect x="48" y="120" width="150" height="72" rx="10"/>
+      <rect x="214" y="120" width="150" height="72" rx="10"/>
+      <rect x="380" y="120" width="150" height="72" rx="10"/>
+      <rect x="48" y="208" width="150" height="72" rx="10"/>
+      <rect x="214" y="208" width="150" height="72" rx="10"/>
+      <rect x="380" y="208" width="150" height="72" rx="10"/>
+    </g>
+    <g fill="#1f4d3a" font-size="14" font-weight="650" text-anchor="middle">
+      <text x="123" y="162">Person 1</text>
+      <text x="289" y="162">Person 2</text>
+      <text x="455" y="162">Person 3</text>
+      <text x="123" y="250">Person 4</text>
+      <text x="289" y="250">...</text>
+      <text x="455" y="250">Person 100</text>
+    </g>
+    <rect x="620" y="140" width="280" height="160" rx="12" fill="#ffffff" stroke="#1c1917"/>
+    <text x="760" y="200" text-anchor="middle" fill="#1c1917" font-size="16" font-weight="650">One Kapra network</text>
+    <text x="760" y="228" text-anchor="middle" fill="#44403c" font-size="14">answers and settlement</text>
+    <text x="760" y="252" text-anchor="middle" fill="#44403c" font-size="14">general answers only</text>
+    <text x="760" y="276" text-anchor="middle" fill="#57534e" font-size="13">each phone keeps its own keys</text>
+    <path d="M530 196 H620" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M612 196 l8 -5 v10 z" fill="#1c1917"/>
+    <text x="48" y="340" fill="#57534e" font-size="13">Intended shape. This diagram is not a measurement of 100 live devices.</text>
+  </g>
+</svg>

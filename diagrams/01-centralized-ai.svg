@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Traditional centralized AI</title>
+  <desc id="desc">A person sends a conversation to a company API. The company runs the model and keeps the conversation.</desc>
+  <rect width="960" height="420" fill="#f7f6f3"/>
+  <text x="48" y="48" fill="#1c1917" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="650">Traditional centralized AI</text>
+  <text x="48" y="76" fill="#57534e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">The company holds the model, the memory, and the account.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="48" y="140" width="200" height="120" rx="12" fill="#ffffff" stroke="#d6d3d1"/>
+    <text x="148" y="196" text-anchor="middle" fill="#1c1917" font-size="16" font-weight="650">Person</text>
+    <text x="148" y="220" text-anchor="middle" fill="#57534e" font-size="13">conversation leaves</text>
+    <rect x="360" y="140" width="220" height="120" rx="12" fill="#ffffff" stroke="#d6d3d1"/>
+    <text x="470" y="196" text-anchor="middle" fill="#1c1917" font-size="16" font-weight="650">Company API</text>
+    <text x="470" y="220" text-anchor="middle" fill="#57534e" font-size="13">account and price</text>
+    <rect x="692" y="120" width="220" height="160" rx="12" fill="#ffffff" stroke="#a8a29e"/>
+    <text x="802" y="176" text-anchor="middle" fill="#1c1917" font-size="16" font-weight="650">Company datacenter</text>
+    <text x="802" y="204" text-anchor="middle" fill="#57534e" font-size="13">model</text>
+    <text x="802" y="226" text-anchor="middle" fill="#57534e" font-size="13">stored conversation</text>
+    <text x="802" y="248" text-anchor="middle" fill="#57534e" font-size="13">retention rules</text>
+    <path d="M248 200 H360" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M352 200 l8 -5 v10 z" fill="#1c1917"/>
+    <path d="M580 200 H692" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M684 200 l8 -5 v10 z" fill="#1c1917"/>
+  </g>
+</svg>

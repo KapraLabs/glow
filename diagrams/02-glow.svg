@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">Glow architecture</title>
+  <desc id="desc">The device holds keys and private memory. The network answers. Personal content stays with the user.</desc>
+  <rect width="960" height="480" fill="#f7f6f3"/>
+  <text x="48" y="48" fill="#1c1917" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="650">Glow</text>
+  <text x="48" y="76" fill="#57534e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">The device is the person's node. The network answers. Private memory stays private.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="48" y="130" width="250" height="200" rx="12" fill="#ffffff" stroke="#1f4d3a" stroke-width="1.5"/>
+    <text x="173" y="168" text-anchor="middle" fill="#1f4d3a" font-size="16" font-weight="650">Person's device</text>
+    <text x="173" y="200" text-anchor="middle" fill="#44403c" font-size="14">keys</text>
+    <text x="173" y="224" text-anchor="middle" fill="#44403c" font-size="14">private memory</text>
+    <text x="173" y="248" text-anchor="middle" fill="#44403c" font-size="14">conversation</text>
+    <text x="173" y="280" text-anchor="middle" fill="#57534e" font-size="13">can help confirm</text>
+    <text x="173" y="300" text-anchor="middle" fill="#57534e" font-size="13">does not write blocks</text>
+    <rect x="390" y="170" width="180" height="90" rx="12" fill="#ffffff" stroke="#d6d3d1"/>
+    <text x="480" y="208" text-anchor="middle" fill="#1c1917" font-size="15" font-weight="650">Request</text>
+    <text x="480" y="232" text-anchor="middle" fill="#57534e" font-size="13">prompt stays unpublished</text>
+    <rect x="662" y="130" width="250" height="200" rx="12" fill="#ffffff" stroke="#1c1917"/>
+    <text x="787" y="168" text-anchor="middle" fill="#1c1917" font-size="16" font-weight="650">Kapra network</text>
+    <text x="787" y="200" text-anchor="middle" fill="#44403c" font-size="14">answers the prompt</text>
+    <text x="787" y="224" text-anchor="middle" fill="#44403c" font-size="14">settles the $0.002 fee</text>
+    <text x="787" y="248" text-anchor="middle" fill="#44403c" font-size="14">reuses general answers</text>
+    <text x="787" y="280" text-anchor="middle" fill="#57534e" font-size="13">not the person's identity</text>
+    <path d="M298 210 H390" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M382 210 l8 -5 v10 z" fill="#1c1917"/>
+    <path d="M570 210 H662" stroke="#1c1917" stroke-width="1.5" fill="none"/>
+    <path d="M654 210 l8 -5 v10 z" fill="#1c1917"/>
+    <path d="M787 330 V370 H173 V330" stroke="#1f4d3a" stroke-width="1.5" fill="none"/>
+    <path d="M173 338 l-5 8 h10 z" fill="#1f4d3a"/>
+    <text x="480" y="392" text-anchor="middle" fill="#1f4d3a" font-size="14">answer returns to the device</text>
+    <text x="48" y="450" fill="#57534e" font-size="13">Personal content is not copied into the shared answer store.</text>
+  </g>
+</svg>
