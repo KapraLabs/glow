@@ -13,6 +13,12 @@ This repository is a product description. It is not an implementation, and it is
 - [Measured results](benchmarks.md) — figures from our runs, and the rows we have not measured
 - [Product status](ROADMAP.md)
 
+The same public material is on Hugging Face:
+
+- [Explainer](https://huggingface.co/spaces/kapralabs/glow)
+- [Measured results](https://huggingface.co/datasets/kapralabs/glow-measured-results)
+- [Collection](https://huggingface.co/collections/kapralabs/glow-6abe81a0808439a25caffb61)
+
 Diagrams are in [diagrams/](diagrams/).
 
 ## Price
